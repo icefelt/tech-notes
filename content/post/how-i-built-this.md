@@ -4,24 +4,26 @@ categories:
 tags:
   - hugo
   - intro
-title: "First Post! Procedure to create and deploy this static site using Hugo, AWS S3, AWS Cloudfront, AWS Route53, and AWS Certificate Manager"
+title: "Procedure to create and deploy this static site using Hugo, AWS S3, AWS Cloudfront, AWS Route53, and AWS Certificate Manager"
 date: "2018-07-28T15:47:17-07:00"
 draft: false
 ---
 
-This first post are my notes to setup and configure this site. I leaned heavily on these sites to help me build this:
+This post is my my notes to setup and configure this site. I leaned heavily on these sites to help me build this:
 ```
 https://agop.me/post/https-enabled-portfolio-hugo-s3-cloudfront.html
 https://fillmem.com/post/fast-secured-and-free-static-site/
 ```
 
 This site must
+
 - use my domain name, eissfeldt.com and my DNS severs (AWS Route53)
 - use SSL certs (AWS Certificate Manager)
 - be hosted in cheap cloud storage, not a server (AWS S3)
 - use a CDN and and defaults to https (AWS CloudFront)
 
 This post assumes 
+
 - AWS account and AWS CLI are configured 
 - git and npm installed in the developer's environment
 
