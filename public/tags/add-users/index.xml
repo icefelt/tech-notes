@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Add users on Scott Eissfeldt&#39;s Tech Notes</title>
+    <link>https://notes.eissfeldt.com/tags/add-users/</link>
+    <description>Recent content in Add users on Scott Eissfeldt&#39;s Tech Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 25 Sep 2017 16:13:57 -0700</lastBuildDate>
+    
+	<atom:link href="https://notes.eissfeldt.com/tags/add-users/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>In Centos, add user</title>
+      <link>https://notes.eissfeldt.com/post/adding-users-in-centos/</link>
+      <pubDate>Mon, 25 Sep 2017 16:13:57 -0700</pubDate>
+      
+      <guid>https://notes.eissfeldt.com/post/adding-users-in-centos/</guid>
+      <description>Manusal steps to add a user with sudo accecss in centos
+adduser -U -G adm,wheel username -s /bin/bash &amp;amp;&amp;amp; su -l username &amp;amp;&amp;amp; mkdir .ssh &amp;amp;&amp;amp; chmod 0700 .ssh &amp;amp;&amp;amp; cd .ssh/ vi authorized_keys ssh-rsa AAAAB3NzaThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFake underthehood@grossinhere.local chmod 0600 authorized_keys  </description>
+    </item>
+    
+  </channel>
+</rss>

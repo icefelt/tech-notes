@@ -1,0 +1,21 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "hugo server -w -v",
+    "build": "hugo -v",
+    "deploy": "aws s3 sync public/ s3://notes-blog-eissfeldt/ --delete"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icefelt/tech-notes.git"
+  },
+  "author": "Scott Eissfeldt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icefelt/tech-notes/issues"
+  },
+  "homepage": "https://github.com/icefelt/tech-notes#readme"
+}

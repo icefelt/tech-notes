@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other on Scott Eissfeldt&#39;s Tech Notes</title>
+    <link>https://notes.eissfeldt.com/categories/other/</link>
+    <description>Recent content in Other on Scott Eissfeldt&#39;s Tech Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 15 Dec 2017 16:49:08 -0800</lastBuildDate>
+    
+	<atom:link href="https://notes.eissfeldt.com/categories/other/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Use Chef&#39;s knife ssh command to run chef-client on multiple instances</title>
+      <link>https://notes.eissfeldt.com/post/knife-ssh-command-chef-client/</link>
+      <pubDate>Fri, 15 Dec 2017 16:49:08 -0800</pubDate>
+      
+      <guid>https://notes.eissfeldt.com/post/knife-ssh-command-chef-client/</guid>
+      <description>Example using Chef&amp;rsquo;s knife command to run chef-client on all instances using the dev_identity.pem.
+knife ssh &amp;quot;role:*&amp;quot; &amp;quot;chef-client&amp;quot; -i ~/.ec2/dev_identity.pem  </description>
+    </item>
+    
+  </channel>
+</rss>

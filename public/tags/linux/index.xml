@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Scott Eissfeldt&#39;s Tech Notes</title>
+    <link>https://notes.eissfeldt.com/tags/linux/</link>
+    <description>Recent content in Linux on Scott Eissfeldt&#39;s Tech Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 06 Oct 2017 16:19:45 -0700</lastBuildDate>
+    
+	<atom:link href="https://notes.eissfeldt.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Workaround for Terraform Error DBParameterGroup not found</title>
+      <link>https://notes.eissfeldt.com/post/terraform-state-rm/</link>
+      <pubDate>Fri, 06 Oct 2017 16:19:45 -0700</pubDate>
+      
+      <guid>https://notes.eissfeldt.com/post/terraform-state-rm/</guid>
+      <description>The terraform destroy command outputs a false error as it is not able to delete an AWS RDS MySQL DB.
+Error refreshing state: 1 error(s) occurred: * module.hortonworks.aws_db_parameter_group.hortonworks: aws_db_parameter_group.hortonworks: DBParameterGroupNotFound: DBParameterGroup not found: dsdev-105-rds-param-hortonworks status code: 404, request id: c9083eec-aadb-11e7-9855-8f67280331c5  To workaround this error, use the terraform state rm command to remove the module where terraform is showing an error.
+Fri Oct 06 14:21:18 root@M062-PDX /Users/seissfeldt/ssdc/dexcom-ansible/terraform/aws/env-main-us-dev $ terraform state rm module.</description>
+    </item>
+    
+    <item>
+      <title>In Centos, add user</title>
+      <link>https://notes.eissfeldt.com/post/adding-users-in-centos/</link>
+      <pubDate>Mon, 25 Sep 2017 16:13:57 -0700</pubDate>
+      
+      <guid>https://notes.eissfeldt.com/post/adding-users-in-centos/</guid>
+      <description>Manusal steps to add a user with sudo accecss in centos
+adduser -U -G adm,wheel username -s /bin/bash &amp;amp;&amp;amp; su -l username &amp;amp;&amp;amp; mkdir .ssh &amp;amp;&amp;amp; chmod 0700 .ssh &amp;amp;&amp;amp; cd .ssh/ vi authorized_keys ssh-rsa AAAAB3NzaThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFake underthehood@grossinhere.local chmod 0600 authorized_keys  </description>
+    </item>
+    
+  </channel>
+</rss>

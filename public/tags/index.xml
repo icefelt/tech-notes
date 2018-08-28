@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Scott Eissfeldt&#39;s Tech Notes</title>
+    <link>https://notes.eissfeldt.com/tags/</link>
+    <description>Recent content in Tags on Scott Eissfeldt&#39;s Tech Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 25 Sep 2017 16:13:57 -0700</lastBuildDate>
+    
+	<atom:link href="https://notes.eissfeldt.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Add users</title>
+      <link>https://notes.eissfeldt.com/tags/add-users/</link>
+      <pubDate>Mon, 25 Sep 2017 16:13:57 -0700</pubDate>
+      
+      <guid>https://notes.eissfeldt.com/tags/add-users/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ami</title>
+      <link>https://notes.eissfeldt.com/tags/ami/</link>
+      <pubDate>Fri, 06 Oct 2017 17:20:30 -0700</pubDate>
+      
+      <guid>https://notes.eissfeldt.com/tags/ami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aws</title>
+      <link>https://notes.eissfeldt.com/tags/aws/</link>
+      <pubDate>Fri, 06 Oct 2017 17:20:30 -0700</pubDate>
+      
+      <guid>https://notes.eissfeldt.com/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Centos</title>
+      <link>https://notes.eissfeldt.com/tags/centos/</link>
+      <pubDate>Mon, 25 Sep 2017 16:13:57 -0700</pubDate>
+      
+      <guid>https://notes.eissfeldt.com/tags/centos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chef</title>
+      <link>https://notes.eissfeldt.com/tags/chef/</link>
+      <pubDate>Fri, 15 Dec 2017 16:49:08 -0800</pubDate>
+      
+      <guid>https://notes.eissfeldt.com/tags/chef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chef-client</title>
+      <link>https://notes.eissfeldt.com/tags/chef-client/</link>
+      <pubDate>Fri, 15 Dec 2017 16:49:08 -0800</pubDate>
+      
+      <guid>https://notes.eissfeldt.com/tags/chef-client/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://notes.eissfeldt.com/tags/hugo/</link>
+      <pubDate>Sat, 28 Jul 2018 15:47:17 -0700</pubDate>
+      
+      <guid>https://notes.eissfeldt.com/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro</title>
+      <link>https://notes.eissfeldt.com/tags/intro/</link>
+      <pubDate>Sat, 28 Jul 2018 15:47:17 -0700</pubDate>
+      
+      <guid>https://notes.eissfeldt.com/tags/intro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knife</title>
+      <link>https://notes.eissfeldt.com/tags/knife/</link>
+      <pubDate>Fri, 15 Dec 2017 16:49:08 -0800</pubDate>
+      
+      <guid>https://notes.eissfeldt.com/tags/knife/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://notes.eissfeldt.com/tags/linux/</link>
+      <pubDate>Fri, 06 Oct 2017 16:19:45 -0700</pubDate>
+      
+      <guid>https://notes.eissfeldt.com/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Log</title>
+      <link>https://notes.eissfeldt.com/tags/log/</link>
+      <pubDate>Tue, 03 Oct 2017 16:30:21 -0700</pubDate>
+      
+      <guid>https://notes.eissfeldt.com/tags/log/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ssh</title>
+      <link>https://notes.eissfeldt.com/tags/ssh/</link>
+      <pubDate>Fri, 15 Dec 2017 16:49:08 -0800</pubDate>
+      
+      <guid>https://notes.eissfeldt.com/tags/ssh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terraform</title>
+      <link>https://notes.eissfeldt.com/tags/terraform/</link>
+      <pubDate>Fri, 06 Oct 2017 16:19:45 -0700</pubDate>
+      
+      <guid>https://notes.eissfeldt.com/tags/terraform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unix</title>
+      <link>https://notes.eissfeldt.com/tags/unix/</link>
+      <pubDate>Tue, 03 Oct 2017 16:30:21 -0700</pubDate>
+      
+      <guid>https://notes.eissfeldt.com/tags/unix/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
