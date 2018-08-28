@@ -3,6 +3,8 @@ title = "Scott Eissfeldt's Tech Notes"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 
+uglyurls = true
+
 theme = "minimo"
 
 disqusShortname = ""
