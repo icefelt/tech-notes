@@ -12,10 +12,10 @@
     
     <item>
       <title>Procedure to create and deploy this static site using Hugo, AWS S3, AWS Cloudfront, AWS Route53, and AWS Certificate Manager</title>
-      <link>https://notes.eissfeldt.com/post/how-i-built-this/</link>
+      <link>https://notes.eissfeldt.com/post/how-i-built-this.html</link>
       <pubDate>Sat, 28 Jul 2018 15:47:17 -0700</pubDate>
       
-      <guid>https://notes.eissfeldt.com/post/how-i-built-this/</guid>
+      <guid>https://notes.eissfeldt.com/post/how-i-built-this.html</guid>
       <description>This post is my my notes to setup and configure this site. I leaned heavily on these sites to help me build this:
 https://agop.me/post/https-enabled-portfolio-hugo-s3-cloudfront.html https://fillmem.com/post/fast-secured-and-free-static-site/  This site must
  use my domain name, eissfeldt.com and my DNS severs (AWS Route53) use SSL certs (AWS Certificate Manager) be hosted in cheap cloud storage, not a server (AWS S3) use a CDN and and defaults to https (AWS CloudFront)  This post assumes</description>
@@ -23,30 +23,30 @@ https://agop.me/post/https-enabled-portfolio-hugo-s3-cloudfront.html https://fil
     
     <item>
       <title>Use Chef&#39;s knife ssh command to run chef-client on multiple instances</title>
-      <link>https://notes.eissfeldt.com/post/knife-ssh-command-chef-client/</link>
+      <link>https://notes.eissfeldt.com/post/knife-ssh-command-chef-client.html</link>
       <pubDate>Fri, 15 Dec 2017 16:49:08 -0800</pubDate>
       
-      <guid>https://notes.eissfeldt.com/post/knife-ssh-command-chef-client/</guid>
+      <guid>https://notes.eissfeldt.com/post/knife-ssh-command-chef-client.html</guid>
       <description>Example using Chef&amp;rsquo;s knife command to run chef-client on all instances using the dev_identity.pem.
 knife ssh &amp;quot;role:*&amp;quot; &amp;quot;chef-client&amp;quot; -i ~/.ec2/dev_identity.pem  </description>
     </item>
     
     <item>
       <title>Aws Cannot Share Encrypted Volumes Across Accounts</title>
-      <link>https://notes.eissfeldt.com/post/aws-cannot-share-encrypted-volumes-across-accounts/</link>
+      <link>https://notes.eissfeldt.com/post/aws-cannot-share-encrypted-volumes-across-accounts.html</link>
       <pubDate>Fri, 06 Oct 2017 17:20:30 -0700</pubDate>
       
-      <guid>https://notes.eissfeldt.com/post/aws-cannot-share-encrypted-volumes-across-accounts/</guid>
+      <guid>https://notes.eissfeldt.com/post/aws-cannot-share-encrypted-volumes-across-accounts.html</guid>
       <description>We use different AWS accounts for production and development. We also use encrypted AMI&amp;rsquo;s. Writing some ansible code, I kept erroring out on a known-good AMI. The reason was I could not share AMI across encrypted accounts.
  You can&amp;rsquo;t copy an encrypted AMI that was shared with you from another account. Instead, if the underlying snapshot and encryption key were shared with you, you can copy the snapshot while re-encrypting it with a key of your own.</description>
     </item>
     
     <item>
       <title>Workaround for Terraform Error DBParameterGroup not found</title>
-      <link>https://notes.eissfeldt.com/post/terraform-state-rm/</link>
+      <link>https://notes.eissfeldt.com/post/terraform-state-rm.html</link>
       <pubDate>Fri, 06 Oct 2017 16:19:45 -0700</pubDate>
       
-      <guid>https://notes.eissfeldt.com/post/terraform-state-rm/</guid>
+      <guid>https://notes.eissfeldt.com/post/terraform-state-rm.html</guid>
       <description>The terraform destroy command outputs a false error as it is not able to delete an AWS RDS MySQL DB.
 Error refreshing state: 1 error(s) occurred: * module.hortonworks.aws_db_parameter_group.hortonworks: aws_db_parameter_group.hortonworks: DBParameterGroupNotFound: DBParameterGroup not found: dsdev-105-rds-param-hortonworks status code: 404, request id: c9083eec-aadb-11e7-9855-8f67280331c5  To workaround this error, use the terraform state rm command to remove the module where terraform is showing an error.
 Fri Oct 06 14:21:18 root@M062-PDX /Users/seissfeldt/ssdc/dexcom-ansible/terraform/aws/env-main-us-dev $ terraform state rm module.</description>
@@ -54,20 +54,20 @@ Fri Oct 06 14:21:18 root@M062-PDX /Users/seissfeldt/ssdc/dexcom-ansible/terrafor
     
     <item>
       <title>Which-Is-Kerberos-Admin-Server</title>
-      <link>https://notes.eissfeldt.com/post/which-is-kerberos-admin-server/</link>
+      <link>https://notes.eissfeldt.com/post/which-is-kerberos-admin-server.html</link>
       <pubDate>Tue, 03 Oct 2017 17:07:07 -0700</pubDate>
       
-      <guid>https://notes.eissfeldt.com/post/which-is-kerberos-admin-server/</guid>
+      <guid>https://notes.eissfeldt.com/post/which-is-kerberos-admin-server.html</guid>
       <description>To see which keytab server your client is trying to authenticate, you can run these commands.
 export KRB5_TRACE=/dev/stdout kinit -k -t username.keytab username@EC2.INTERNAL -V  </description>
     </item>
     
     <item>
       <title>Redirecting standard error into standard output from your commands in unix into log files</title>
-      <link>https://notes.eissfeldt.com/post/direct-output-to-log/</link>
+      <link>https://notes.eissfeldt.com/post/direct-output-to-log.html</link>
       <pubDate>Tue, 03 Oct 2017 16:30:21 -0700</pubDate>
       
-      <guid>https://notes.eissfeldt.com/post/direct-output-to-log/</guid>
+      <guid>https://notes.eissfeldt.com/post/direct-output-to-log.html</guid>
       <description>Sometimes, we&amp;rsquo;re not able to view the output of standard error, or we&amp;rsquo;d like to keep this in a log file to search later. Saving the results of standard output can be useful for troublshooting issues the future.
 To do this, we can redirct standard error into standard output and save this to a log file.
 Adding &amp;ldquo;2&amp;gt;&amp;amp;1&amp;rdquo; to the end of your command will redirct the standard error into standard output.</description>
@@ -75,20 +75,20 @@ Adding &amp;ldquo;2&amp;gt;&amp;amp;1&amp;rdquo; to the end of your command will
     
     <item>
       <title>In Centos, add user</title>
-      <link>https://notes.eissfeldt.com/post/adding-users-in-centos/</link>
+      <link>https://notes.eissfeldt.com/post/adding-users-in-centos.html</link>
       <pubDate>Mon, 25 Sep 2017 16:13:57 -0700</pubDate>
       
-      <guid>https://notes.eissfeldt.com/post/adding-users-in-centos/</guid>
+      <guid>https://notes.eissfeldt.com/post/adding-users-in-centos.html</guid>
       <description>Manusal steps to add a user with sudo accecss in centos
 adduser -U -G adm,wheel username -s /bin/bash &amp;amp;&amp;amp; su -l username &amp;amp;&amp;amp; mkdir .ssh &amp;amp;&amp;amp; chmod 0700 .ssh &amp;amp;&amp;amp; cd .ssh/ vi authorized_keys ssh-rsa AAAAB3NzaThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFakeThisIsFake underthehood@grossinhere.local chmod 0600 authorized_keys  </description>
     </item>
     
     <item>
       <title>First-Post</title>
-      <link>https://notes.eissfeldt.com/post/first-post/</link>
+      <link>https://notes.eissfeldt.com/post/first-post.html</link>
       <pubDate>Mon, 25 Sep 2017 15:47:17 -0700</pubDate>
       
-      <guid>https://notes.eissfeldt.com/post/first-post/</guid>
+      <guid>https://notes.eissfeldt.com/post/first-post.html</guid>
       <description>First Post If you can read this, the site is on.
 Here were some of my requirements and my choice located in parentheses  easy to build on my mac (built on my mac) static site (Hugo) uses SSL certs and defaulitng to https (AWS Certificate Manager) hosted in the cloud in cheap storage, not a server (AWS S3) uses a CDN (AWS CloudFront) uses my domain, eissfeldt.com (AWS Route53)  I leaned heavily on these sites to build this.</description>
     </item>

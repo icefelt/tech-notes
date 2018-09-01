@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aws on Scott Eissfeldt&#39;s Tech Notes</title>
-    <link>https://notes.eissfeldt.com/tags/aws/</link>
+    <link>https://notes.eissfeldt.com/tags/aws.html</link>
     <description>Recent content in Aws on Scott Eissfeldt&#39;s Tech Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 06 Oct 2017 17:20:30 -0700</lastBuildDate>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Aws Cannot Share Encrypted Volumes Across Accounts</title>
-      <link>https://notes.eissfeldt.com/post/aws-cannot-share-encrypted-volumes-across-accounts/</link>
+      <link>https://notes.eissfeldt.com/post/aws-cannot-share-encrypted-volumes-across-accounts.html</link>
       <pubDate>Fri, 06 Oct 2017 17:20:30 -0700</pubDate>
       
-      <guid>https://notes.eissfeldt.com/post/aws-cannot-share-encrypted-volumes-across-accounts/</guid>
+      <guid>https://notes.eissfeldt.com/post/aws-cannot-share-encrypted-volumes-across-accounts.html</guid>
       <description>We use different AWS accounts for production and development. We also use encrypted AMI&amp;rsquo;s. Writing some ansible code, I kept erroring out on a known-good AMI. The reason was I could not share AMI across encrypted accounts.
  You can&amp;rsquo;t copy an encrypted AMI that was shared with you from another account. Instead, if the underlying snapshot and encryption key were shared with you, you can copy the snapshot while re-encrypting it with a key of your own.</description>
     </item>

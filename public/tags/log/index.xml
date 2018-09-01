@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Log on Scott Eissfeldt&#39;s Tech Notes</title>
-    <link>https://notes.eissfeldt.com/tags/log/</link>
+    <link>https://notes.eissfeldt.com/tags/log.html</link>
     <description>Recent content in Log on Scott Eissfeldt&#39;s Tech Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 03 Oct 2017 16:30:21 -0700</lastBuildDate>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Redirecting standard error into standard output from your commands in unix into log files</title>
-      <link>https://notes.eissfeldt.com/post/direct-output-to-log/</link>
+      <link>https://notes.eissfeldt.com/post/direct-output-to-log.html</link>
       <pubDate>Tue, 03 Oct 2017 16:30:21 -0700</pubDate>
       
-      <guid>https://notes.eissfeldt.com/post/direct-output-to-log/</guid>
+      <guid>https://notes.eissfeldt.com/post/direct-output-to-log.html</guid>
       <description>Sometimes, we&amp;rsquo;re not able to view the output of standard error, or we&amp;rsquo;d like to keep this in a log file to search later. Saving the results of standard output can be useful for troublshooting issues the future.
 To do this, we can redirct standard error into standard output and save this to a log file.
 Adding &amp;ldquo;2&amp;gt;&amp;amp;1&amp;rdquo; to the end of your command will redirct the standard error into standard output.</description>

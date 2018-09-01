@@ -3,135 +3,135 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://notes.eissfeldt.com/post/how-i-built-this/</loc>
+    <loc>https://notes.eissfeldt.com/post/how-i-built-this.html</loc>
     <lastmod>2018-07-28T15:47:17-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://notes.eissfeldt.com/post/knife-ssh-command-chef-client/</loc>
+    <loc>https://notes.eissfeldt.com/post/knife-ssh-command-chef-client.html</loc>
     <lastmod>2017-12-15T16:49:08-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://notes.eissfeldt.com/post/aws-cannot-share-encrypted-volumes-across-accounts/</loc>
+    <loc>https://notes.eissfeldt.com/post/aws-cannot-share-encrypted-volumes-across-accounts.html</loc>
     <lastmod>2017-10-06T17:20:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://notes.eissfeldt.com/post/terraform-state-rm/</loc>
+    <loc>https://notes.eissfeldt.com/post/terraform-state-rm.html</loc>
     <lastmod>2017-10-06T16:19:45-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://notes.eissfeldt.com/post/which-is-kerberos-admin-server/</loc>
+    <loc>https://notes.eissfeldt.com/post/which-is-kerberos-admin-server.html</loc>
     <lastmod>2017-10-03T17:07:07-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://notes.eissfeldt.com/post/direct-output-to-log/</loc>
+    <loc>https://notes.eissfeldt.com/post/direct-output-to-log.html</loc>
     <lastmod>2017-10-03T16:30:21-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://notes.eissfeldt.com/post/adding-users-in-centos/</loc>
+    <loc>https://notes.eissfeldt.com/post/adding-users-in-centos.html</loc>
     <lastmod>2017-09-25T16:13:57-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://notes.eissfeldt.com/post/first-post/</loc>
+    <loc>https://notes.eissfeldt.com/post/first-post.html</loc>
     <lastmod>2017-09-25T15:47:17-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://notes.eissfeldt.com/tags/add-users/</loc>
+    <loc>https://notes.eissfeldt.com/tags/add-users.html</loc>
     <lastmod>2017-09-25T16:13:57-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://notes.eissfeldt.com/tags/ami/</loc>
+    <loc>https://notes.eissfeldt.com/tags/ami.html</loc>
     <lastmod>2017-10-06T17:20:30-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://notes.eissfeldt.com/authors/</loc>
+    <loc>https://notes.eissfeldt.com/authors.html</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://notes.eissfeldt.com/tags/aws/</loc>
+    <loc>https://notes.eissfeldt.com/tags/aws.html</loc>
     <lastmod>2017-10-06T17:20:30-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://notes.eissfeldt.com/categories/</loc>
+    <loc>https://notes.eissfeldt.com/categories.html</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://notes.eissfeldt.com/tags/centos/</loc>
+    <loc>https://notes.eissfeldt.com/tags/centos.html</loc>
     <lastmod>2017-09-25T16:13:57-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://notes.eissfeldt.com/tags/chef/</loc>
+    <loc>https://notes.eissfeldt.com/tags/chef.html</loc>
     <lastmod>2017-12-15T16:49:08-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://notes.eissfeldt.com/tags/chef-client/</loc>
+    <loc>https://notes.eissfeldt.com/tags/chef-client.html</loc>
     <lastmod>2017-12-15T16:49:08-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://notes.eissfeldt.com/tags/hugo/</loc>
+    <loc>https://notes.eissfeldt.com/tags/hugo.html</loc>
     <lastmod>2018-07-28T15:47:17-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://notes.eissfeldt.com/tags/intro/</loc>
+    <loc>https://notes.eissfeldt.com/tags/intro.html</loc>
     <lastmod>2018-07-28T15:47:17-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://notes.eissfeldt.com/tags/knife/</loc>
+    <loc>https://notes.eissfeldt.com/tags/knife.html</loc>
     <lastmod>2017-12-15T16:49:08-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://notes.eissfeldt.com/tags/linux/</loc>
+    <loc>https://notes.eissfeldt.com/tags/linux.html</loc>
     <lastmod>2017-10-06T16:19:45-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://notes.eissfeldt.com/tags/log/</loc>
+    <loc>https://notes.eissfeldt.com/tags/log.html</loc>
     <lastmod>2017-10-03T16:30:21-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://notes.eissfeldt.com/categories/other/</loc>
+    <loc>https://notes.eissfeldt.com/categories/other.html</loc>
     <lastmod>2017-12-15T16:49:08-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://notes.eissfeldt.com/categories/others/</loc>
+    <loc>https://notes.eissfeldt.com/categories/others.html</loc>
     <lastmod>2018-07-28T15:47:17-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://notes.eissfeldt.com/post/</loc>
+    <loc>https://notes.eissfeldt.com/post.html</loc>
     <lastmod>2018-07-28T15:47:17-07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -143,30 +143,30 @@
   </url>
   
   <url>
-    <loc>https://notes.eissfeldt.com/series/</loc>
+    <loc>https://notes.eissfeldt.com/series.html</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://notes.eissfeldt.com/tags/ssh/</loc>
+    <loc>https://notes.eissfeldt.com/tags/ssh.html</loc>
     <lastmod>2017-12-15T16:49:08-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://notes.eissfeldt.com/tags/</loc>
+    <loc>https://notes.eissfeldt.com/tags.html</loc>
     <lastmod>2017-09-25T16:13:57-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://notes.eissfeldt.com/tags/terraform/</loc>
+    <loc>https://notes.eissfeldt.com/tags/terraform.html</loc>
     <lastmod>2017-10-06T16:19:45-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://notes.eissfeldt.com/tags/unix/</loc>
+    <loc>https://notes.eissfeldt.com/tags/unix.html</loc>
     <lastmod>2017-10-03T16:30:21-07:00</lastmod>
     <priority>0</priority>
   </url>

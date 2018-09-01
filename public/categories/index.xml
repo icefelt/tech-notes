@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Scott Eissfeldt&#39;s Tech Notes</title>
-    <link>https://notes.eissfeldt.com/categories/</link>
+    <link>https://notes.eissfeldt.com/categories.html</link>
     <description>Recent content in Categories on Scott Eissfeldt&#39;s Tech Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     
@@ -11,19 +11,19 @@
     
     <item>
       <title>Other</title>
-      <link>https://notes.eissfeldt.com/categories/other/</link>
+      <link>https://notes.eissfeldt.com/categories/other.html</link>
       <pubDate>Fri, 15 Dec 2017 16:49:08 -0800</pubDate>
       
-      <guid>https://notes.eissfeldt.com/categories/other/</guid>
+      <guid>https://notes.eissfeldt.com/categories/other.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Others</title>
-      <link>https://notes.eissfeldt.com/categories/others/</link>
+      <link>https://notes.eissfeldt.com/categories/others.html</link>
       <pubDate>Sat, 28 Jul 2018 15:47:17 -0700</pubDate>
       
-      <guid>https://notes.eissfeldt.com/categories/others/</guid>
+      <guid>https://notes.eissfeldt.com/categories/others.html</guid>
       <description></description>
     </item>
     

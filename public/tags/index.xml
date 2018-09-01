@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Scott Eissfeldt&#39;s Tech Notes</title>
-    <link>https://notes.eissfeldt.com/tags/</link>
+    <link>https://notes.eissfeldt.com/tags.html</link>
     <description>Recent content in Tags on Scott Eissfeldt&#39;s Tech Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 25 Sep 2017 16:13:57 -0700</lastBuildDate>
@@ -12,127 +12,127 @@
     
     <item>
       <title>Add users</title>
-      <link>https://notes.eissfeldt.com/tags/add-users/</link>
+      <link>https://notes.eissfeldt.com/tags/add-users.html</link>
       <pubDate>Mon, 25 Sep 2017 16:13:57 -0700</pubDate>
       
-      <guid>https://notes.eissfeldt.com/tags/add-users/</guid>
+      <guid>https://notes.eissfeldt.com/tags/add-users.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ami</title>
-      <link>https://notes.eissfeldt.com/tags/ami/</link>
+      <link>https://notes.eissfeldt.com/tags/ami.html</link>
       <pubDate>Fri, 06 Oct 2017 17:20:30 -0700</pubDate>
       
-      <guid>https://notes.eissfeldt.com/tags/ami/</guid>
+      <guid>https://notes.eissfeldt.com/tags/ami.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aws</title>
-      <link>https://notes.eissfeldt.com/tags/aws/</link>
+      <link>https://notes.eissfeldt.com/tags/aws.html</link>
       <pubDate>Fri, 06 Oct 2017 17:20:30 -0700</pubDate>
       
-      <guid>https://notes.eissfeldt.com/tags/aws/</guid>
+      <guid>https://notes.eissfeldt.com/tags/aws.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Centos</title>
-      <link>https://notes.eissfeldt.com/tags/centos/</link>
+      <link>https://notes.eissfeldt.com/tags/centos.html</link>
       <pubDate>Mon, 25 Sep 2017 16:13:57 -0700</pubDate>
       
-      <guid>https://notes.eissfeldt.com/tags/centos/</guid>
+      <guid>https://notes.eissfeldt.com/tags/centos.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chef</title>
-      <link>https://notes.eissfeldt.com/tags/chef/</link>
+      <link>https://notes.eissfeldt.com/tags/chef.html</link>
       <pubDate>Fri, 15 Dec 2017 16:49:08 -0800</pubDate>
       
-      <guid>https://notes.eissfeldt.com/tags/chef/</guid>
+      <guid>https://notes.eissfeldt.com/tags/chef.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chef-client</title>
-      <link>https://notes.eissfeldt.com/tags/chef-client/</link>
+      <link>https://notes.eissfeldt.com/tags/chef-client.html</link>
       <pubDate>Fri, 15 Dec 2017 16:49:08 -0800</pubDate>
       
-      <guid>https://notes.eissfeldt.com/tags/chef-client/</guid>
+      <guid>https://notes.eissfeldt.com/tags/chef-client.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://notes.eissfeldt.com/tags/hugo/</link>
+      <link>https://notes.eissfeldt.com/tags/hugo.html</link>
       <pubDate>Sat, 28 Jul 2018 15:47:17 -0700</pubDate>
       
-      <guid>https://notes.eissfeldt.com/tags/hugo/</guid>
+      <guid>https://notes.eissfeldt.com/tags/hugo.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intro</title>
-      <link>https://notes.eissfeldt.com/tags/intro/</link>
+      <link>https://notes.eissfeldt.com/tags/intro.html</link>
       <pubDate>Sat, 28 Jul 2018 15:47:17 -0700</pubDate>
       
-      <guid>https://notes.eissfeldt.com/tags/intro/</guid>
+      <guid>https://notes.eissfeldt.com/tags/intro.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Knife</title>
-      <link>https://notes.eissfeldt.com/tags/knife/</link>
+      <link>https://notes.eissfeldt.com/tags/knife.html</link>
       <pubDate>Fri, 15 Dec 2017 16:49:08 -0800</pubDate>
       
-      <guid>https://notes.eissfeldt.com/tags/knife/</guid>
+      <guid>https://notes.eissfeldt.com/tags/knife.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>https://notes.eissfeldt.com/tags/linux/</link>
+      <link>https://notes.eissfeldt.com/tags/linux.html</link>
       <pubDate>Fri, 06 Oct 2017 16:19:45 -0700</pubDate>
       
-      <guid>https://notes.eissfeldt.com/tags/linux/</guid>
+      <guid>https://notes.eissfeldt.com/tags/linux.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Log</title>
-      <link>https://notes.eissfeldt.com/tags/log/</link>
+      <link>https://notes.eissfeldt.com/tags/log.html</link>
       <pubDate>Tue, 03 Oct 2017 16:30:21 -0700</pubDate>
       
-      <guid>https://notes.eissfeldt.com/tags/log/</guid>
+      <guid>https://notes.eissfeldt.com/tags/log.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ssh</title>
-      <link>https://notes.eissfeldt.com/tags/ssh/</link>
+      <link>https://notes.eissfeldt.com/tags/ssh.html</link>
       <pubDate>Fri, 15 Dec 2017 16:49:08 -0800</pubDate>
       
-      <guid>https://notes.eissfeldt.com/tags/ssh/</guid>
+      <guid>https://notes.eissfeldt.com/tags/ssh.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Terraform</title>
-      <link>https://notes.eissfeldt.com/tags/terraform/</link>
+      <link>https://notes.eissfeldt.com/tags/terraform.html</link>
       <pubDate>Fri, 06 Oct 2017 16:19:45 -0700</pubDate>
       
-      <guid>https://notes.eissfeldt.com/tags/terraform/</guid>
+      <guid>https://notes.eissfeldt.com/tags/terraform.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unix</title>
-      <link>https://notes.eissfeldt.com/tags/unix/</link>
+      <link>https://notes.eissfeldt.com/tags/unix.html</link>
       <pubDate>Tue, 03 Oct 2017 16:30:21 -0700</pubDate>
       
-      <guid>https://notes.eissfeldt.com/tags/unix/</guid>
+      <guid>https://notes.eissfeldt.com/tags/unix.html</guid>
       <description></description>
     </item>
     
