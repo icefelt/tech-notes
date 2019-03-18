@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Scott Eissfeldt&#39;s Tech Notes</title>
-    <link>https://notes.eissfeldt.com/series.html</link>
+    <link>https://blog.eissfeldt.com/series.html</link>
     <description>Recent content in Series on Scott Eissfeldt&#39;s Tech Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://notes.eissfeldt.com/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.eissfeldt.com/series/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

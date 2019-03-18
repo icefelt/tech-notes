@@ -11,20 +11,31 @@ export KRB5_TRACE=/dev/stdout kinit -k -t username.keytab username@EC2.INTERNAL 
 <meta property='og:title' content='Which-Is-Kerberos-Admin-Server • Scott Eissfeldt&#39;s Tech Notes'>
 <meta property='og:description' content='To see which keytab server your client is trying to authenticate, you can run these commands.
 export KRB5_TRACE=/dev/stdout kinit -k -t username.keytab username@EC2.INTERNAL -V  '>
-<meta property='og:url' content='https://notes.eissfeldt.com/post/which-is-kerberos-admin-server.html'>
+<meta property='og:url' content='https://blog.eissfeldt.com/post/which-is-kerberos-admin-server.html'>
 <meta property='og:site_name' content='Scott Eissfeldt&#39;s Tech Notes'>
 <meta property='og:type' content='article'><meta property='article:section' content='Post'><meta property='article:published_time' content='2017-10-03T17:07:07-07:00'/><meta property='article:modified_time' content='2017-10-03T17:07:07-07:00'/><meta name='twitter:card' content='summary'>
 
-<meta name="generator" content="Hugo 0.45.1" />
+<meta name="generator" content="Hugo 0.54.0" />
 
   <title>Which-Is-Kerberos-Admin-Server • Scott Eissfeldt&#39;s Tech Notes</title>
-  <link rel='canonical' href='https://notes.eissfeldt.com/post/which-is-kerberos-admin-server.html'>
+  <link rel='canonical' href='https://blog.eissfeldt.com/post/which-is-kerberos-admin-server.html'>
   
   
   <link rel='icon' href='/favicon.ico'>
 <link rel='stylesheet' href='/assets/css/main.809149b6.css'><link rel='stylesheet' href='/css/custom.css'><style>
 :root{--color-accent:#ffcd00;}
 </style>
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-111761180-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
 
   
 
@@ -75,33 +86,33 @@ export KRB5_TRACE=/dev/stdout kinit -k -t username.keytab username@EC2.INTERNAL 
 
   <div class='container list-container'>
   <ul class='list taxonomy-cloud'><li>
-        <a href='/tags/add-users.html' style='font-size:1em'>Add users</a>
+        <a href='/tags/add-users.html' style='font-size:1em'>add users</a>
       </li><li>
-        <a href='/tags/ami.html' style='font-size:1em'>Ami</a>
+        <a href='/tags/ami.html' style='font-size:1em'>ami</a>
       </li><li>
-        <a href='/tags/aws.html' style='font-size:1em'>Aws</a>
+        <a href='/tags/aws.html' style='font-size:1em'>aws</a>
       </li><li>
-        <a href='/tags/centos.html' style='font-size:1em'>Centos</a>
+        <a href='/tags/centos.html' style='font-size:1em'>centos</a>
       </li><li>
-        <a href='/tags/chef.html' style='font-size:1em'>Chef</a>
+        <a href='/tags/chef.html' style='font-size:1em'>chef</a>
       </li><li>
-        <a href='/tags/chef-client.html' style='font-size:1em'>Chef-client</a>
+        <a href='/tags/chef-client.html' style='font-size:1em'>chef-client</a>
       </li><li>
-        <a href='/tags/hugo.html' style='font-size:2em'>Hugo</a>
+        <a href='/tags/hugo.html' style='font-size:2em'>hugo</a>
       </li><li>
-        <a href='/tags/intro.html' style='font-size:2em'>Intro</a>
+        <a href='/tags/intro.html' style='font-size:2em'>intro</a>
       </li><li>
-        <a href='/tags/knife.html' style='font-size:1em'>Knife</a>
+        <a href='/tags/knife.html' style='font-size:1em'>knife</a>
       </li><li>
-        <a href='/tags/linux.html' style='font-size:2em'>Linux</a>
+        <a href='/tags/linux.html' style='font-size:2em'>linux</a>
       </li><li>
-        <a href='/tags/log.html' style='font-size:1em'>Log</a>
+        <a href='/tags/log.html' style='font-size:1em'>log</a>
       </li><li>
-        <a href='/tags/ssh.html' style='font-size:1em'>Ssh</a>
+        <a href='/tags/ssh.html' style='font-size:1em'>ssh</a>
       </li><li>
-        <a href='/tags/terraform.html' style='font-size:1em'>Terraform</a>
+        <a href='/tags/terraform.html' style='font-size:1em'>terraform</a>
       </li><li>
-        <a href='/tags/unix.html' style='font-size:1em'>Unix</a>
+        <a href='/tags/unix.html' style='font-size:1em'>unix</a>
       </li></ul>
 </div>
 
@@ -273,7 +284,7 @@ kinit -k -t username.keytab username@EC2.INTERNAL -V
       </li></ul>
   </nav>
 </section><div class='copyright'>
-  <p> &copy; 2017-2018 Scott Eissfeldt </p>
+  <p> &copy; 2017-2019 Scott Eissfeldt </p>
 </div>
 
         </div>
