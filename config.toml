@@ -93,8 +93,8 @@ apiEndpoint = "https://dev.staticman.net/v3/entry"
 maxDepth = 2
 
 [params.comments.staticman.github]
-username = "MunifTanjim"
-repository = "minimo"
+username = "icefelt"
+repository = "tech_notes"
 branch = "master"
 
 # Utterances: https://utteranc.es
