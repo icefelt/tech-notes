@@ -85,7 +85,7 @@ google_scholar = ""
 youtube = ""
 
 [params.comments]
-enable = false
+enable = true
 
 [params.comments.staticman]
 enable = true
