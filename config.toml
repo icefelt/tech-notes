@@ -103,8 +103,8 @@ enable = false
 issueTerm = "pathname" # pathname / url / title
 
 [params.comments.utterances.github]
-username = "icefelt"
-repository = "tech-notes"
+username = ""
+repository = ""
 
 [params.search]
 client = "" # algolia / fuse / lunr
